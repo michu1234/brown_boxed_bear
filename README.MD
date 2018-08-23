@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://github.com/michu1234/brown_boxed_bear/blob/master/img/Panda.jpg?raw=true" alt="Bootstrap logo" width=200>
+    <img src="https://github.com/michu1234/brown_boxed_bear/blob/master/img/Panda.jpg?raw=true" alt="Bootstrap logo" width=250>
   </a>
 
   <h3 align="center">BROWN BOXED BEAR</h3>
@@ -8,9 +8,11 @@
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
     <br>
-    <a href="https://getbootstrap.com/docs/4.1/"><strong>GRID CSS based »</strong></a>
+    <a href="https://getbootstrap.com/docs/4.1/"><strong>TRY it Out! »</strong></a>
     <br>
     <br>
+        <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">GRID CSS based</a>
+    ·
     <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">SCSS friendly</a>
     ·
     <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">CSS variables on board</a>
