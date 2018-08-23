@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.1/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width=72 height=72>
+    <img src="https://github.com/michu1234/brown_boxed_bear/blob/master/img/Panda.jpg?raw=true" alt="Bootstrap logo" width=72 height=72>
   </a>
 
   <h3 align="center">BROWN BOXED BEAR</h3>
