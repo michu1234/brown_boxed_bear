@@ -1,0 +1,24 @@
+@import './helpers/placeholders';
+@import './helpers/variables';
+@import './mixins/clearfix';
+@import './mixins/list-reset';
+@import './mixins/responsive';
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+// @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 62.5%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+

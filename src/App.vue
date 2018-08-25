@@ -1,5 +1,11 @@
 <template>
   <div id="app">
+
+<div class="container">
+  <!-- Content here -->
+</div>
+
+
 <h1>Heading</h1>
 <h2>Heading</h2>
 <h3>Heading</h3>
@@ -82,7 +88,7 @@
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" src="./assets/scss/main.scss">
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
