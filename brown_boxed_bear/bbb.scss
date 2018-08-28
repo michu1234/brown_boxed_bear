@@ -1,8 +1,13 @@
 @import './helpers/placeholders';
+@import './grid/grid';
 @import './helpers/variables';
 @import './mixins/clearfix';
 @import './mixins/list-reset';
 @import './mixins/responsive';
+
+
+
+
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 // @import url('https://fonts.googleapis.com/css?family=Montserrat:100');
 
@@ -22,3 +27,7 @@ h1 {
     font-size: 40px;
 }
 
+div {
+    border: 1px solid darkorange;
+    min-height: 15px;
+}

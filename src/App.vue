@@ -1,8 +1,19 @@
 <template>
   <div id="app">
 
-<div class="container">
-  <!-- Content here -->
+<div class="row">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
 </div>
 
 
