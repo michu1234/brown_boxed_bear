@@ -2,8 +2,8 @@
 
 .container {
     width: 100%;
-    padding-right: ($grid-gutter-width / 2);
-    padding-left: ($grid-gutter-width / 2);
+    padding-right: ($grid-gutter-width);
+    padding-left: ($grid-gutter-width);
     margin-right: auto;
     margin-left: auto;
 }
@@ -15,15 +15,24 @@
 }
 
 .no-gutters {
+    padding-left: -($grid-gutter-width / 2);
+    padding-right: -($grid-gutter-width / 2);
+}
 
+%grid-column {
+    display: grid;
+    grid-auto-flow: column;
 }
 
 .row {
-    display: grid;
-    grid-auto-flow: column;
-    grid-gap: $grid-gutter-width;
+    @extend %grid-column;
+
+    >div {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
 }
 
-.col {
-
+.col-md-3 {
+    
 }
